@@ -1,0 +1,59 @@
+header h1{
+    text-align: center;
+    color: white;
+    background-image: url(https://labcomplex.com.ua/wp-content/uploads/2023/09/1-kart-1.webp);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+.outlined-text{
+    font-size: 48px;
+    font-weight: bold;
+    -webkit-text-stroke: 2px black;
+    font-family: cursive;
+}
+
+h3{
+    font-size: 30px;
+    font-family: monospace;
+    background-color: rgba(255, 255, 255, 0.375);
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    padding-bottom: 30px;
+}
+
+p{
+    font-size: 30px;
+    font-family: monospace;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: rgba(240, 248, 255, 0.288);
+    -webkit-text-stroke: 0.5px rgb(0, 0, 0);
+    color: black;
+}
+
+h2{
+    font-size: 50px;
+    font-family: cursive;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(46, 109, 130);
+    border-radius: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 5px;
+    border: 2px solid black;
+    color: aliceblue;
+}
+
+html{
+    background-image: url(https://img.freepik.com/free-vector/clean-medical-background_53876-101049.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+}
